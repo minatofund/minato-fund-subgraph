@@ -1,3 +1,3 @@
-# Example Subgraph
+# Minato Fund Subgraph
 
-An example to help you get started with The Graph. For more information see the docs on https://thegraph.com/docs/.
+For more information see the subgraph page https://thegraph.com/explorer/subgraph/minatofund/minato-fund
